@@ -1,0 +1,10 @@
+{
+  "Name": "FestivalLocations",
+  "Author": "siliconmodding",
+  "Version": "1.0.0",
+  "Description": "FestivalLocations",
+  "UniqueID": "siliconmodding.FestivalLocations",
+  "EntryDll": "FestivalLocations.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "" ]
+}
